@@ -1,5 +1,5 @@
 # SudokuSolver
-Computer Vision & Deep Learning Program to solve Sudoku Puzzles. 
+A Computer Vision & Deep Learning Program to solve Sudoku Puzzles. 
 
 ## How It Works: ##
 **PART 1:** Process the input Sudoku Puzzle and return a clearer version of the puzzle with OpenCV.<br /> 
